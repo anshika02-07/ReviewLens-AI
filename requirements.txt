@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+spacy
+transformers
+torch
+sentence-transformers
+faiss-cpu
+tqdm
