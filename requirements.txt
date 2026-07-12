@@ -7,3 +7,6 @@ torch
 sentence-transformers
 faiss-cpu
 tqdm
+anthropic
+python-dotenv
+scikit-learn
